@@ -1,2 +1,2 @@
 # flexbox
-![alt text](http://url/to/flexbox.png)
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/flexbox.png)
